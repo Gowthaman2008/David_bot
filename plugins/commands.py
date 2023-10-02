@@ -42,16 +42,16 @@ async def start(client, message):
             InlineKeyboardButton("🎈 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/GM_Botzz'), 
-            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/request_tamil_movies")
+            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/+Ot7wKp4PXI80YWM9")
             ],[
             InlineKeyboardButton("⚙️ Hᴇʟᴩ ⚙️", callback_data="help"),
             InlineKeyboardButton("✨ Aʙᴏᴜᴛ ✨", callback_data="about")
             ],[
-            InlineKeyboardButton('🍿 Jᴏɪɴ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ 🍿', url='https://t.me/movies_tamizhaass')
+            InlineKeyboardButton('🍿 Jᴏɪɴ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ 🍿', url='https://t.me/Vip_tamizha_network')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        m=await message.reply_sticker("CAADBQADFQEAAsiUZBRmRDCipxVsEwI")
+        m=await message.reply_sticker("CAACAgUAAxkBAAIfg2UaZyH9fRQ1T5UirUyfWYej3AqrAAKyCQAC0SjAVEdZvMe7DigxHgQ")
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
@@ -94,16 +94,16 @@ async def start(client, message):
             InlineKeyboardButton("🎈 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ 🎈", url=f"http://t.me/{temp.U_NAME}?startgroup=true")
             ],[
             InlineKeyboardButton(' Gᴍ Bᴏᴛᴢᴢ™ ', url='https://t.me/GM_Botzz'), 
-            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/request_tamil_movies")
+            InlineKeyboardButton("🎄 Gʀᴏᴜᴩ 🎄", url="https://t.me/+Ot7wKp4PXI80YWM9")
             ],[
             InlineKeyboardButton("⚙️ Hᴇʟᴩ ⚙️", callback_data="help"),
             InlineKeyboardButton("✨ Aʙᴏᴜᴛ ✨", callback_data="about")
             ],[
-            InlineKeyboardButton('🍿 Jᴏɪɴ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ 🍿', url='https://t.me/movies_tamizhaass')
+            InlineKeyboardButton('🍿 Jᴏɪɴ Mᴏᴠɪᴇꜱ Cʜᴀɴɴᴇʟ 🍿', url='https://t.me/Vip_tamizha_network')
             ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_chat_action(enums.ChatAction.TYPING)
-        m=await message.reply_sticker("CAADBQADFQEAAsiUZBRmRDCipxVsEwI")
+        m=await message.reply_sticker("CAACAgUAAxkBAAIfg2UaZyH9fRQ1T5UirUyfWYej3AqrAAKyCQAC0SjAVEdZvMe7DigxHgQ")
         await asyncio.sleep(1)
         await m.delete()
         await message.reply_photo(
